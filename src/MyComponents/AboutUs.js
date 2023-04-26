@@ -2,6 +2,7 @@ import React from "react";
 import photo1 from "../Images/photo1.jpg";
 import twitter from "../Images/twitter.png";
 import insta from "../Images/insta.jpg";
+
 import contractor from "../Images/contractor.png";
 export default function AboutUs() {
   return (
@@ -10,9 +11,7 @@ export default function AboutUs() {
         {/* mid text part */}
         <div className="overflow-x-hidden overflow-y-auto relative w-full">
           <div
-            className=" bg-[url(./Images/bg2.jpg)] bg-no-repeat bg-cover pt-[10rem] opacity
-       pb-[350px] linear   "
-          >
+            className=" back   ">
             <div className=" text-center text-white mx-auto font-serif ">
               <h3 className="font-bold  mb-5 text-6xl mt-5 s1">
                 A FEW WORDS ABOUT

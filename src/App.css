@@ -3,4 +3,15 @@
     
 }
 
+.back{
+   background: url(./Images/background.jpg) ;
+   background-repeat: no-repeat;
+   background-size: contain;
+}
 
+.background{
+    background: url(./Images/contactus.jpg) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+   
+ }

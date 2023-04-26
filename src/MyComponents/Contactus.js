@@ -12,8 +12,7 @@ export default function AboutUs() {
       <>
         <div className="overflow-x-hidden overflow-y-auto relative w-full py-12">
           <div
-            className=" bg-[url(./Images/contactus.jpg)] bg-no-repeat bg-cover pt-[19rem] 
-       pb-[350px] linear w-full "
+            className=" background "
           >
             <div className="text-white  text-center text-6xl ">
               <p className=" s1 -mt-16  ">
